@@ -1,0 +1,12 @@
+diff a/uane-site/app/TipoPrograma.php b/uane-site/app/TipoPrograma.php	(rejected hunks)
+@@ -0,0 +1,10 @@
++<?php
++
++namespace App;
++
++use Illuminate\Database\Eloquent\Model;
++
++class TipoPrograma extends Model
++{
++    //
++}
